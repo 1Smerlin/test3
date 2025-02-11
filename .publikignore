@@ -1,0 +1,13 @@
+:main origin:
+
+:main2 origin2:
+golf
+test.txt
+
+:main3:
+.publikignore
+
+:main4 origin4:
+slag1
+test.txt
+bambi.md
